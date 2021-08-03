@@ -1,5 +1,5 @@
-const hauteur = 700;
-const largeur = 800;
+const hauteur = window.innerHeight;
+const largeur = window.innerWidth;
 
 const vitesse = 1.5;
 const apparition = 2000;
